@@ -13,8 +13,6 @@
 ### 🤝 Connect with me:
 ![](https://komarev.com/ghpvc/?username=codeshitmeshit&color=7957d5)
 
-[<img align="left" alt="codeshitmehit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-
 [<img align="left" alt="codeshitmehit | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
 [<img align="left" alt="codeshitmehit | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
