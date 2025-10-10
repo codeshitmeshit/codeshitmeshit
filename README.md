@@ -39,7 +39,7 @@
 
 <img alt="Cosh's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=codeshitmeshit&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
 
-<img alt="Cosh's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshitmeshit&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshitmeshit&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
 [gmail]: mailto:codeshitmeshit@gmail.com
