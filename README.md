@@ -25,7 +25,6 @@
 
 ### 👨‍💻 Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
 <br>
 
 ---
@@ -45,8 +44,7 @@
 <img alt="Cosh's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshitmeshit&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 
-[linkedin]: https://www.linkedin.com/in/jha-vineet/
-[gmail]: mailto:vineetjha3388@gmail.com
-[leetcode]: https://leetcode.com/vineet_jha/
+[gmail]: mailto:codeshitmeshit@gmail.com
+[leetcode]: https://leetcode.cn/codeshitmeshit/
 
 ⭐️ This MainPage Fork From [Vineet Jha](https://github.com/jha-vineet69)
