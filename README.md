@@ -13,11 +13,11 @@
 ### 🤝 Connect with me:
 ![](https://komarev.com/ghpvc/?username=codeshitmeshit&color=7957d5)
 
-[<img align="left" alt="jha-vineet69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="codeshitmehit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
-[<img align="left" alt="jha-vineet69 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
+[<img align="left" alt="codeshitmehit | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
-[<img align="left" alt="jha-vineet69 | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
+[<img align="left" alt="codeshitmehit | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
 
 <br>
 
@@ -40,7 +40,7 @@
 
 ### 🏆 Github Stats:
 
-<img alt="Cosh's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=codeshitmeshit&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+<img alt="Cosh's Github Stats" src="https://github-readme-stats.codeshitmehit.vercel.app/api?username=codeshitmeshit&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
 
 <img alt="Cosh's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshitmeshit&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
