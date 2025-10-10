@@ -1,4 +1,4 @@
-### Hi there, I'm Vineet 👋
+### Hi there, I'm Cosh 👋
 
 
 ## I'm an Engineer, a Data Scientist, and Life Long Learner!
@@ -24,7 +24,6 @@
 ---
 
 ### 👨‍💻 Languages and Tools:
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
 <br>
@@ -41,13 +40,13 @@
 
 ### 🏆 Github Stats:
 
-<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=codeshitmeshit&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+<img alt="Cosh's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=codeshitmeshit&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
 
-<img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshitmeshit&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
+<img alt="Cosh's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshitmeshit&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 
 [linkedin]: https://www.linkedin.com/in/jha-vineet/
 [gmail]: mailto:vineetjha3388@gmail.com
 [leetcode]: https://leetcode.com/vineet_jha/
 
-⭐️ From [Vineet Jha](https://github.com/jha-vineet69)
+⭐️ This MainPage Fork From [Vineet Jha](https://github.com/jha-vineet69)
